@@ -1,0 +1,17 @@
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\Data\sqliteDatabase.db
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\bin\Debug\Data\sqliteDatabase.db
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\Main.exe.config
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\Main.exe
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\Main.pdb
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\EntityFramework.dll
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\System.Data.SQLite.dll
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\System.Data.SQLite.EF6.dll
+C:\Users\Ronal\Desktop\AAInternational\Main\bin\Release\System.Data.SQLite.Linq.dll
+C:\Users\Ronal\Desktop\AAInternational\Main\obj\Release\Main.csproj.AssemblyReference.cache
+C:\Users\Ronal\Desktop\AAInternational\Main\obj\Release\Main.MainForm.resources
+C:\Users\Ronal\Desktop\AAInternational\Main\obj\Release\Main.csproj.GenerateResource.cache
+C:\Users\Ronal\Desktop\AAInternational\Main\obj\Release\Main.csproj.CoreCompileInputs.cache
+C:\Users\Ronal\Desktop\AAInternational\Main\obj\Release\Main.csproj.CopyComplete
+C:\Users\Ronal\Desktop\AAInternational\Main\obj\Release\Main.exe
+C:\Users\Ronal\Desktop\AAInternational\Main\obj\Release\Main.pdb
